@@ -85,3 +85,5 @@ client.run('YOUR_BOT_TOKEN_HERE')
 This bot will listen for messages that start with !play and a URL to a YouTube video. It will download the video and play the audio in the user's voice channel. To use this bot, you will need to have a Discord account and create a bot on the Discord developer portal. You will also need to install the youtube-dl library and the FFmpeg library. You can then copy the bot's token and paste it in place of YOUR_BOT_TOKEN_HERE in the code.
 
 This is just a simple example to get you started. You can find more information about creating Discord bots and using the discord.py library in the Discord API documentation and the discord.py documentation. You can also find more information about using youtube-dl and FFmpeg to download and play audio in the youtube-dl documentation and the FFmpeg documentation.
+
+❤ https://github.com/Pooh3133 ❤
